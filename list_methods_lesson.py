@@ -10,5 +10,5 @@ print(numbers.index(7))  # Prints the index of a specified value so for 7 this i
 print(numbers)
 print(50 in numbers)  # we are checking for the existence of 50 in this list of numbers
 print(numbers.count(5))  # Will check how many of a value are in the list
-print(numbers.sort())   # Will sort numbers in ascending items .reverse will do it backwards
+print(numbers2.sort())   # Will sort numbers in ascending items .reverse will do it backwards
 
