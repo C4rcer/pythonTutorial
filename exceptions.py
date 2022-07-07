@@ -7,3 +7,4 @@ except ZeroDivisionError:  # exception if division by zero then print below
     print("Age cannot be 0.")
 except ValueError:  # instead of crashing print this if it's a value error
     print("Invalid value")
+
