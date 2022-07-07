@@ -1,5 +1,5 @@
 # function is a container for a few lines of code that do a specific task
-def greet_user(first_name, last_name):  # Meaningful name, name is a parameter
+def greet_user(first_name, last_name):  # Meaningful name, name is a parameter you must pass arguments to these
     print(f"Hi {first_name} {last_name}!")
     print("Welcome aboard")
 
